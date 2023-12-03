@@ -1,0 +1,14 @@
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\bin\Debug\net6.0\Parameters.exe
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\bin\Debug\net6.0\Parameters.deps.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\bin\Debug\net6.0\Parameters.runtimeconfig.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\bin\Debug\net6.0\Parameters.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\bin\Debug\net6.0\Parameters.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfo.cs
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\Parameters.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\refint\Parameters.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\Parameters.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\Parameters.genruntimeconfig.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Vježbe AISP Boris Puljak\Parameters\obj\Debug\net6.0\ref\Parameters.dll
