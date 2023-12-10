@@ -1,0 +1,14 @@
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\bin\Debug\net6.0\Comparers.exe
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\bin\Debug\net6.0\Comparers.deps.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\bin\Debug\net6.0\Comparers.runtimeconfig.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\bin\Debug\net6.0\Comparers.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\bin\Debug\net6.0\Comparers.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\Comparers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\Comparers.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\Comparers.AssemblyInfo.cs
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\Comparers.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\Comparers.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\refint\Comparers.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\Comparers.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\Comparers.genruntimeconfig.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Comparers\obj\Debug\net6.0\ref\Comparers.dll

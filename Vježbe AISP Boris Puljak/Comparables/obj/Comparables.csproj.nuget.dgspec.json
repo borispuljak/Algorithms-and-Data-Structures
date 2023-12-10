@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Vježbe AISP Boris Puljak\\Comparables\\Comparables.csproj": {}
+    "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Algorithms-and-Data-Structures\\Vježbe AISP Boris Puljak\\Comparables\\Comparables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Vježbe AISP Boris Puljak\\Comparables\\Comparables.csproj": {
+    "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Algorithms-and-Data-Structures\\Vježbe AISP Boris Puljak\\Comparables\\Comparables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Vježbe AISP Boris Puljak\\Comparables\\Comparables.csproj",
+        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Algorithms-and-Data-Structures\\Vježbe AISP Boris Puljak\\Comparables\\Comparables.csproj",
         "projectName": "Comparables",
-        "projectPath": "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Vježbe AISP Boris Puljak\\Comparables\\Comparables.csproj",
+        "projectPath": "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Algorithms-and-Data-Structures\\Vježbe AISP Boris Puljak\\Comparables\\Comparables.csproj",
         "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Vježbe AISP Boris Puljak\\Comparables\\obj\\",
+        "outputPath": "C:\\Users\\Boris\\Desktop\\FESB\\7. Semestar\\Algoritmi i strukture podataka\\Vježbe\\Algorithms-and-Data-Structures\\Vježbe AISP Boris Puljak\\Comparables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Boris\\AppData\\Roaming\\NuGet\\NuGet.Config",
