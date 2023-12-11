@@ -9,6 +9,7 @@ namespace Delegates
     class Program
     {
         delegate void Invoker(int i);
+
         static void Method(Invoker invoker, int value)
         {
             invoker(value);

@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Searching
 {
@@ -26,8 +31,9 @@ namespace Searching
                 if (array[mid] == value)
                     return mid;
 
-                if (array[mid] < value)
+                else if (array[mid] < value)
                     low = mid + 1;
+
                 else
                     high = mid - 1;
             }
@@ -44,8 +50,9 @@ namespace Searching
                 if (array[mid] == value)
                     return mid;
 
-                if (array[mid] < value)
+                else if (array[mid] < value)
                     return BinarySearchRecursive(array, value, mid + 1, high);
+
                 else
                     return BinarySearchRecursive(array, value, low, mid - 1);
             }
@@ -57,17 +64,14 @@ namespace Searching
         {
             int[] array = { 1, 2, 3, 4, 5, 6, 7 };
 
-            // Sequential Search
             int index = SequentialSearch(array, 6);
-            Console.WriteLine($"Sequential Search Result: {index}");
+            Console.WriteLine("Sequential Search:"+index);
 
-            // Binary Search
             index = BinarySearch(array, 6);
-            Console.WriteLine($"Binary Search Result: {index}");
+            Console.WriteLine("Binary Search:"+index);
 
-            // Binary Search with specific range
             index = BinarySearchRecursive(array, 6, 0, 6);
-            Console.WriteLine($"Binary Search (Range) Result: {index}");
+            Console.WriteLine("Binary Search (Range):"+index);
         }
     }
 }

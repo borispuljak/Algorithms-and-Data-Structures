@@ -18,17 +18,17 @@ namespace Comparisons
             new Student("Joe", 4.7)
         };
 
-            Console.WriteLine("Original array:");
+            Console.WriteLine("Studenti prije sortiranja:");
             DisplayStudents(students);
 
             Bubble.Sort(students, Student.CompareName);
 
-            Console.WriteLine("\nArray sorted by name:");
+            Console.WriteLine("\nStudenti nakon sortiranja po imenu:");
             DisplayStudents(students);
 
             Bubble.Sort(students, Student.CompareGrade);
 
-            Console.WriteLine("\nArray sorted by grade:");
+            Console.WriteLine("\nStudenti nakon sortiranja po ocjeni:");
             DisplayStudents(students);
         }
 

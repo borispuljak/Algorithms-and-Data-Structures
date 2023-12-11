@@ -7,15 +7,13 @@ namespace Recursions
         static void Main()
         {
             int result = Factorial(6);
-            Console.WriteLine($"Factorial of 6: {result}");
+            Console.WriteLine("6!="+result);
 
             result = Fibonacci(6);
-            Console.WriteLine($"Fibonacci of 6 (Recursive): {result}");
+            Console.WriteLine("Fibonacci of 6 (Recursive)="+result);
 
             result = FibonacciIter(6);
-            Console.WriteLine($"Fibonacci of 6 (Iterative): {result}");
-
-            Console.ReadLine();
+            Console.WriteLine("FibonacciIter of 6 (Iterative):"+result);
         }
 
         static int Factorial(int n)
