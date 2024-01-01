@@ -65,13 +65,13 @@ namespace Searching
             int[] array = { 1, 2, 3, 4, 5, 6, 7 };
 
             int index = SequentialSearch(array, 6);
-            Console.WriteLine("Sequential Search:"+index);
+            Console.WriteLine("Sequential Search: "+index);
 
             index = BinarySearch(array, 6);
-            Console.WriteLine("Binary Search:"+index);
+            Console.WriteLine("Binary Search: "+index);
 
             index = BinarySearchRecursive(array, 6, 0, 6);
-            Console.WriteLine("Binary Search (Range):"+index);
+            Console.WriteLine("Binary Search (Recursive): "+index);
         }
     }
 }
