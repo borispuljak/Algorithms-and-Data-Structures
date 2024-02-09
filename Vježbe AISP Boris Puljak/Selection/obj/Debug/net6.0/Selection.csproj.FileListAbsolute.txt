@@ -1,0 +1,14 @@
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\bin\Debug\net6.0\Selection.exe
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\bin\Debug\net6.0\Selection.deps.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\bin\Debug\net6.0\Selection.runtimeconfig.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\bin\Debug\net6.0\Selection.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\bin\Debug\net6.0\Selection.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\Selection.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\Selection.AssemblyInfo.cs
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\Selection.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\Selection.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\refint\Selection.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\Selection.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\Selection.genruntimeconfig.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Selection\obj\Debug\net6.0\ref\Selection.dll

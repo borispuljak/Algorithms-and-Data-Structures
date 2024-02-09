@@ -1,0 +1,14 @@
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\bin\Debug\net6.0\Double List.exe
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\bin\Debug\net6.0\Double List.deps.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\bin\Debug\net6.0\Double List.runtimeconfig.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\bin\Debug\net6.0\Double List.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\bin\Debug\net6.0\Double List.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\Double List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\Double List.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\Double List.AssemblyInfo.cs
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\Double List.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\Double List.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\refint\Double List.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\Double List.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\Double List.genruntimeconfig.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Double List\obj\Debug\net6.0\ref\Double List.dll

@@ -1,0 +1,21 @@
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Single List.deps.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Single List.runtimeconfig.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Single List.exe
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Stack.exe
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Stack.deps.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Stack.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Stack.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Single List.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\bin\Debug\net6.0\Single List.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.csproj.CopyComplete
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\refint\Stack.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Stack\obj\Debug\net6.0\ref\Stack.dll

@@ -1,0 +1,14 @@
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\bin\Debug\net6.0\Single List.exe
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\bin\Debug\net6.0\Single List.deps.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\bin\Debug\net6.0\Single List.runtimeconfig.json
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\bin\Debug\net6.0\Single List.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\bin\Debug\net6.0\Single List.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\Single List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\Single List.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\Single List.AssemblyInfo.cs
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\Single List.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\Single List.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\refint\Single List.dll
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\Single List.pdb
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\Single List.genruntimeconfig.cache
+C:\Users\Boris\Desktop\FESB\7. Semestar\Algoritmi i strukture podataka\Vježbe\Algorithms-and-Data-Structures\Vježbe AISP Boris Puljak\Single List\obj\Debug\net6.0\ref\Single List.dll
