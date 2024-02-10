@@ -12,12 +12,12 @@ namespace Selection
         {
             int[] array = { 9, 8, 4, 11, 5, 7, 3, 1 };
 
-            Console.WriteLine("Original array:");
+            Console.WriteLine("Neortirani niz:");
             PrintArray(array);
 
             Selection.Sort(array, 0);
 
-            Console.WriteLine("\nSorted array:");
+            Console.WriteLine("\nSortirani niz:");
             PrintArray(array);
         }
 
